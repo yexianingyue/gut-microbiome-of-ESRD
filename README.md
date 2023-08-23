@@ -1,1 +1,1 @@
-## 1303 MAGs from study: (Metagenome-wide analyses uncover gut bacterial signatures and implicate taxon-specific functions in end-stage renal disease)[https://www.ebi.ac.uk/ena/browser/view/PRJEB65297]
+## 1303 MAGs from study: [Metagenome-wide analyses uncover gut bacterial signatures and implicate taxon-specific functions in end-stage renal disease](https://www.ebi.ac.uk/ena/browser/view/PRJEB65297)
