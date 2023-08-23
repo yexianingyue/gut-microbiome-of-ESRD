@@ -1,1 +1,2 @@
-## 1303 MAGs from study: [Metagenome-wide analyses uncover gut bacterial signatures and implicate taxon-specific functions in end-stage renal disease](https://www.ebi.ac.uk/ena/browser/view/PRJEB65297)
+## 1303 MAGs of [PRJEB65297](https://www.ebi.ac.uk/ena/browser/view/PRJEB65297)
+The file `MAGs.tar` (_size: ~970M_) in this project contains 1303 MAGs (Metagenome-Assembled Genomes) related to the study of ["_Metagenome-wide analyses uncover gut bacterial signatures and implicate taxon-specific functions in end-stage renal disease._"](https://www.ebi.ac.uk/ena/browser/view/PRJEB65297) The classification information and genomic details of these MAGs are available in the file `1303-MAGs.info.tsv`.
